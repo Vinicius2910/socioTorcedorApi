@@ -1,0 +1,1 @@
+INSERT INTO SOCIO_TORCEDOR VALUES (1,'1996-10-29','vinicius@gmail.com','Vinicius', 'Corinthians');
